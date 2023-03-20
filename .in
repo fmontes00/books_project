@@ -1,0 +1,2 @@
+export DJANGO_SETTINGS_MODULE=books_api.settings.dev
+export PYTHONPATH=books_api
