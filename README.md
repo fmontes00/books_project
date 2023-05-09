@@ -20,4 +20,4 @@ Runserver
 $ django-admin runserver
 ```
 
-Accessing to `localhost:8000/api/v1` in your web browser will allow you to start using the API playground and perform some queries 🎉
+Accessing to `localhost:8000/api/v1` in your web browser will allow you to start using the API playground and perform some queries 🎉.
